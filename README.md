@@ -1,2 +1,2 @@
-[b]Na zkoušku
-Zdarma[/b] / 7 dní
+Na zkoušku
+Zdarma / 7 dní
