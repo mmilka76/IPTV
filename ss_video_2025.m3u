@@ -119,38 +119,6 @@ http://212.102.38.45/live/test_mtv_dance_1200_atk/playlist.m3u8
 http://212.102.38.45/live/test_mtv_rocks_1200_atk/playlist.m3u8
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCMAUIBC/1304-mtv80s.png"tvg-chno=""group-title="Czech/Slovakia",[Hudobné] MTV 80s
 http://212.102.38.45/live/test_vh_1_classic_1200_atk/playlist.m3u8
-#EXTINF:-1 media=""tvg-id=""tvg-logo="https://logo.protv.cc/piconsnew/iconcerthd.png"tvg-chno=""group-title="Czech/Slovakia",[Hudobné] iConcerts HD
-http://hls1.free-net.tv:8080/iConcerts_HD/tracks-v1a1/mono.m3u8?token=Homeorg
-#EXTINF:-1 media=""tvg-id=""tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDLQOIBC/983-sport-1-hd.png"tvg-chno=""group-title="Sport",Sport 1 CZ
-http://212.102.38.45/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 media=""tvg-id=""tvg-logo="https://logo.protv.cc/piconsnew/elevensports1uhd.png"tvg-chno=""group-title="Sport",Eleven Sports 1 4K
-http://hls1.free-net.tv:8080/PL_Eleven_Sports_1_4K/tracks-v1a1a2l1/mono.m3u8?token=Homeorg
-#EXTINF:-1 media=""tvg-id=""tvg-logo="https://logo.protv.cc/piconsnew/diemasport2.png"tvg-chno=""group-title="Sport",DIEMA SPORT 2 4K
-http://hls1.free-net.tv:8080/DIEMA_SPORT_2_UHD_4K/tracks-v1a1a2/mono.m3u8?token=Homeorg
-#EXTINF:-1 media=""tvg-id=""tvg-logo="https://logo.protv.cc/piconsnew/diemasport3.png"tvg-chno=""group-title="Sport",DIEMA SPORT 3 4K
-http://hls1.free-net.tv:8080/DIEMA_SPORT_3_UHD_4K/tracks-v1a1a2/mono.m3u8?token=Homeorg
-#EXTINF:-1 media=""tvg-id=""tvg-logo="https://epg.iptvx.one/picons/bcu-ultra4k.png"tvg-chno=""group-title="RU",BCU Ultra 4K
-http://hls114.free-net.tv:8080/BCUUltra4K/tracks-v1a1/mono.m3u8?token=Homeorg
-#EXTINF:-1 media=""tvg-id=""tvg-logo="https://epg.openboxfan.com/picon/bcupremiere1hd.png"tvg-chno=""group-title="RU",Premiere 1 HD
-http://hls114.free-net.tv:8080/BCUPremiere1HD/tracks-v1a1a2/mono.m3u8?token=Homeorg
-#EXTINF:-1 media=""tvg-id=""tvg-logo="https://epg.openboxfan.com/picon/bcupremiere1hd.png"tvg-chno=""group-title="RU",Premiere 2 HD
-http://hls114.free-net.tv:8080/BCUPremiere2HD/tracks-v1a1a2/mono.m3u8?token=Homeorg
-#EXTINF:-1 media=""tvg-id=""tvg-logo="https://epg.openboxfan.com/picon/bcupremiere1hd.png"tvg-chno=""group-title="RU",Premiere 3 HD
-http://hls114.free-net.tv:8080/BCUPremiere3HD/tracks-v1a1a2/mono.m3u8?token=Homeorg
-#EXTINF:-1 media=""tvg-id=""tvg-logo="https://logo.protv.cc/picons/logos/DIGI-4K.png"tvg-chno=""group-title="UHD",DIGI 4K
-http://hls114.free-net.tv:8080/RO_Digi4K/tracks-v1a1/mono.m3u8?token=Homeorg
-#EXTINF:-1 media=""tvg-id=""tvg-logo="https://epg.iptvx.one/picons/fashion-one-4k.png"tvg-chno=""group-title="UHD",FTV UHD
-http://hls1.free-net.tv:8080/Fashion_ONE_4K/tracks-v1a1/mono.m3u8?token=Homeorg
-#EXTINF:-1 media=""tvg-id="STB23264"tvg-logo=""tvg-chno="60"group-title="Фільмові",BOX Premiere 4K
-http://hls1.free-net.tv:8080/BOX_Premiere_4K/tracks-v1a1a2/mono.m3u8?token=Homeorg
-#EXTINF:-1 media=""tvg-id="STB23264"tvg-logo=""tvg-chno="60"group-title="Фільмові",BOX Serial 4K
-http://hls1.free-net.tv:8080/BOX_Serial_4K/tracks-v1a1a2a3/mono.m3u8?token=Homeorg
-#EXTINF:-1 media=""tvg-id="STB23265"tvg-logo=""tvg-chno="147"group-title="Фільмові",BOX Remast 4K
-http://hls1.free-net.tv:8080/BOX_Remast_4K/tracks-v1a1/mono.m3u8?token=Homeorg
-#EXTINF:-1 media=""tvg-id="STB23265"tvg-logo=""tvg-chno="147"group-title="Фільмові",BOX Relax 4K
-http://hls1.free-net.tv:8080/box_relax_4k/tracks-v1a1/mono.m3u8?token=Homeorg
-#EXTINF:-1 media=""tvg-id="STB21031"tvg-logo=""tvg-chno="325"group-title="Телеканали 4K",HOME 4K
-http://hls1.free-net.tv:8080/Home_4K/tracks-v1a1a2/mono.m3u8?token=Homeorg
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://www.themoviedb.org/t/p/w1280/nwnEHsN2SHETsIgbdYM8jg9uq1V.jpg"tvg-chno=""group-title="🍿 Movies",Strážcovia Galaxie 3 (2023)
 http://vodc-sk-bts-six.fastad.pro/dhls/39438/6vEMpbChxmFgo_OgCYpLTesA7_ZvyII3G9zKIFJoyWdSDIyIr0zoCv7Mi1fl79RFNJMUjsE8KVbuuPtlituaTA/master.m3u8
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://image.tmdb.org/t/p/original/f19u4TMvhCf756wMrU0IkYkbJ55.jpg"tvg-chno=""group-title="🍿 Movies",Avatar  Cesta vody (2022)
@@ -211,6 +179,7 @@ http://142.202.51.5:11500/4b80b837634f6ec4e18ff6808a8104f2/video.m3u8?token=8cd4
 http://142.202.51.5:11500/1566fbedc44910a80f2ff3c7624b9c73/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:23,PS3
 http://142.202.51.5:11500/cd28044bc76f2366988269e64b1cb507a/video.m3u8?token=8cd42917778958ac401318dd4968d644
+
 
 
 
