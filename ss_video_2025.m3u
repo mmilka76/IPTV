@@ -6,9 +6,9 @@ http://bratislava.fastad.pro/stream/6cygpcs87g22e9v7g3k5xk9cvqt2rmar4e8gdmcbpwg7
 #EXTINF:-1 media="" tvg-id="" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC4AOIBC/952-markiza-hd.png" tvg-chno="" group-title="Sweet.TV",[Národné] Markíza HD
 https://bratislava.fastad.pro/stream/4uqceuntay9bswxh9efdbg8traftzpz5fyiqqgza3paz52vh5suy23f596e6mxkqgqvk7jixbvkaf7ivpackndncp4tk5y8xjj6czmn8h3nviabqr4tjzzccnvqanu6mnhfmpqer3pczdxec2fbadwaunmaax2nxnkxn2shnjhsitvzg8dxbn6zn66xrtjgq5i======.m3u8
 #EXTINF:-1 media="playlist" tvg-id="" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC5AOIBC/954-doma-hd.png" tvg-chno="" group-title="Sweet.TV",[Národné] Doma HD
-https://bratislava.fastad.pro/stream/xh487bd8nzhy58w4qesuadya49vdh83rd7xj42zvge79bdkc3ukm7fiwwxzyj7gvit25qu3xfjh9ike66zf4gi43m73cvyiwmu3aywh247dpqhxtgdca7jikfg8zfxjh9uyhezczqtmkpgrybtbrt3hnirxgynm6rqnwpbzy7kuaszzqz4ksx6ysmgjhuvcwywts====.m3u8
+https://bratislava.fastad.pro/stream/xh487bd8nzhy58w4qesuadya49vdh83rd7xj42zvge79bdkc3ukm7fiwwxzyj7gvit25qu3xfjh9ike66zf4gi43m73cvyiwmu3aywh247dpqhxtgdca7jikfg8zfxjh9uyhezczqtmkpgrybtbrt3hnirxgynm6rqnwpbzy7kuaszzqz4ksx6ysmgjhuvcwywts=====.m3u8
 #EXTINF:-1 media="playlist" tvg-id="" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCXAMIBC/814-joj-hd.png" tvg-chno="" group-title="Sweet.TV",[Národné] JOJ HD
-https://bratislava.fastad.pro/stream/t8gjr87yj99irhnzs3gym3fyt4xghjhrwu37u9bwc66ue7hjhwkhfy6r9efmavmrwrwpsq38dzwhk2f292rgzbd49d2cbzztwm8fg5puzrg8ai6mdc8vynasxw5d2rwejcxspuj9sf52h6isthfcg3svbh56mk74tw4ih2rvf27py3qf2svcgimqn6h63m2jps======.m3u8
+https://bratislava.fastad.pro/stream/ryuyetqhh5tu3bheyi5vgw3egcj63rs8hkbje9ff3fwxa9g39qd6z5bu4jh5gu4fy77ku3e9emsc26dp4cubtmcz9nc9mbvkpbxkx7njjd576w67wjknu6xrj2byifx2svbi9k3d3jsk2qbb2gydnfav2dxyw92eaw47uvztjgtx6fup8aph2k8zgynnks5y64ks=====.m3u8
 #EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCXRYIBC/3631-magical-christmas-hd.png" tvg-chno="" group-title="sweet.tv",[Filmové] Magical Christmas HD
 https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMS1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9ocnByd2JncXEzOWc1dXI0dnljdmV1OTl5dmhkdTN6dGk1aW1qZHRlc2prbWNwZXNnN3g1aXFtYmJ2djJrY2oydmNncGs5dTVkOHY2c3R1dXI2cmQ1bmRzMjd6am4yd2JjbXJnanBqdWo1dTR3eGlzd204ZmJ0aHl2aDQ5ZnZ2d3hhd3Z1dXg4ZWE3ZHZobm0yOWRoejZkZnpqeHgzcHM5emV4bWk2cmd3YTN0dDh1YmF0cGY2eWZpd2FpeWIzancyNHdoOD09PQ==&u=14799306804625281580&session=7127077338446063691&variant=2&c=3631&dt=2&p=15&e=0&aid=&sp=0
 #EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCSROIBC/2981-top-movies-hd.png" tvg-chno="" group-title="sweet.tv",[Filmové] Najlepšie filmy HD
@@ -219,6 +219,7 @@ http://142.202.51.5:11500/189fbvgherne65wq89z8uvsztzt24w8t/video.m3u8?token=8cd4
 http://142.202.51.5:11500/sadcdsoirewfcsaldkwjetze984656e5/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:22type="playlist" size="Medium" tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%205%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 5 HD
 http://142.202.51.5:11500/NS5/video.m3u8?token=8cd42917778958ac401318dd4968d644
+
 
 
 
