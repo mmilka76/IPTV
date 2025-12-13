@@ -33,14 +33,14 @@ https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMi1zaXRlbC1uaXgtYnRzL
 https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly90czJjbTItc2stYnRzLW5peC5zd2VldC50di9kdnJmYXN0YWRzLzI1MjcvMTM3NTAyLzMwYTMwMzUzNmJmZGMyMmQvanB2ZGp3NGJ0Z2t6c3dyaHBlaDhoNnY0OWRqYXpqazMyZGJhaHpmano3MmkyaHNyenNtNHVhdmF3Mmc1eXprd3ZhdWc5azhkNXlnYnptdXc3ZHFnemloeG1uM2MzZXNxendlamJ4djhmeWUyY2M0ZXg2bWl6djJkYnA1NnFqN3o4Z25pZmRmZm0zaHFqOXRiZ3dyaHRtNGpmZWNpZ3RrZWZwdjZnd2dybTUzcDI2djZjM3l5bj09PS9tYXN0ZXIubTN1OA==&u=16985740068234892230&session=10182298498335732921&variant=0&c=3162&dt=2&p=15&e=891366674&aid=&sp=2178
 #EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCWQMIBC/813-joj-cinema-hd.png" tvg-chno="" group-title="sweet.tv",[Filmové] JOJ Cinema HD
 https://bratislava.fastad.pro/stream/36ef9vmdveefavqxjm46zqgb85vtsry4syr9nzs74pjeskmwq68b362jc63n4gs9deys6bbpvwhg2vds7cgapnqvmxndju2x3afn586ra7q8m6iznhkqrtqi39uvbj7f2fh9dr768aztd59ypjsh6anxv4qp8jxfagra4mzuw9hmug8zurgyn===.m3u8
-#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDHQMIBC/847-jednotka-hd.png" tvg-chno="" group-title="sweet.tv",[Národné] Jednotka HD
-https://bratislava.fastad.pro/stream/u4qf4k5hwr79ud6zbqg34xzfvn7a7m6chk25fner2iqt8tym4ii395gujavv8u2hbk57zm29fqaynu52ty4ef3i2bcwfkghysdcvisnedrjze5jg4uurxv6qw5g44fbdr6a6cz9z5xwjxbs28gp3evk6rbr563gd8fxbaaa3vjahzbv6ifywkmg2we======.m3u8
-#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDIAMIBC/848-dvojka-hd.png" tvg-chno="" group-title="sweet.tv",[Národné] Dvojka HD
-http://bratislava.fastad.pro/stream/6cygpcs87g22e9v7g3k5xk9cvqt2rmar4e8gdmcbpwg74564ibv4eyg9frhiryxaw52whw7d7f7764uz8hj6wwq77r29uq738zn5bh833em7q6t33zgye5ifywyykhtibhyz6i9bx4it37cr25xwenkf2q4s66f9xzd5qnt39wp94srrwud86uwtts======.m3u8
-#EXTINF:-1 media=""tvg-id=""tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCTQMIBC/807-axn.png"tvg-chno=""group-title="Czech/Slovakia",[Filmové] AXN HD
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCTQMIBC/807-axn.png" tvg-chno="" group-title="sweet.tv",[Filmové] AXN HD
 http://212.102.38.45/live/test_axn/playlist.m3u8
-#EXTINF:-1 media=""tvg-id=""tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDTAOIBC/998-amc-hd.png"tvg-chno=""group-title="Czech/Slovakia",[Filmové] AMC HD
-http://212.102.38.45/live/test_amc_25p/playlist.m3u8
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCUAMIBC/808-axn-black.png" tvg-chno="" group-title="sweet.tv",[Filmové] AXN Black
+https://bratislava.fastad.pro/stream/q5w2xnnnxs7fycz8naud9cur5443wxs8mnrqfibshrmds7hckn8tntewzib7hqtzvxa6hkaiv28qyencjtdrh4y87gcfzgq6xnnhugrepi9wt5xngirrqi4czfzwteqerqtpuhmhna97ur5n582d2rcsukpcpdwtxq32sapzfcsi2v4v9ysw3kpz2rgez5s7.m3u8
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCUQMIBC/809-axn-white.png" tvg-chno="" group-title="sweet.tv",[Filmové] AXN White
+https://bratislava.fastad.pro/stream/dg6hhccyec6kbu3k74ukig8fktg2kdnpngiwiuenpvhdys42vczbs44vm4n8j7vyjjcbmaea6mnkejiwebc7vacjv7nnyayu22djxgxsc436ang79hh868caqd8mss3kirjaghu98psh3cy8q87xw39fsg9k8rp3b6skcuvgh82apghve3m892iqbg3ikpitxa======.m3u8
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDTAOIBC/998-amc-hd.png" tvg-chno="" group-title="sweet.tv",[Filmové] AMC HD
+https://bratislava.fastad.pro/stream/bmw9x7v5f4nd9w24y285pqyyswcaqmf47fbzsxgqys6rhgrnprwnfdcznpcwzmyivpjhi5gickp5uxim495pekpkfin2gjk245bwgw27rj4jife259gwn63gzh5935ug2wizbn2rbbg9f2tucd53k3zrbghax4bdnhpgd6hahu9t6t2xy5hp8===.m3u8
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://logo.protv.cc/piconsnew/hbo1hd.png"tvg-chno=""group-title="Czech/Slovakia",[Filmové] HBO HD
 http://212.102.38.45/live/test_hbo_hd_hevc/playlist.m3u8
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://logo.protv.cc/piconsnew/hbo2hd.png"tvg-chno=""group-title="Czech/Slovakia",[Filmové] HBO 2 HD
@@ -54,7 +54,21 @@ http://212.102.38.45/live/test_cinemax2_hd_hevc/playlist.m3u8
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://logo.protv.cc/piconsnew/filmboxhd.png"tvg-chno=""group-title="Czech/Slovakia",[Filmové] Filmbox HD
 http://212.102.38.45/live/test_filmbox/playlist.m3u8
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://logo.protv.cc/piconsnew/filmpluscze.png"tvg-chno=""group-title="Czech/Slovakia",[Filmové] Film+ HD
-http://212.102.38.45/live/test_film_plus_25p/playlist.m3u8
+https://bratislava.fastad.pro/stream/9kj76wjgss7ytjscmzcacd47hafniqa2k63z9xq92uuhp7im495cd68icdp5wka4v2p94xphmjuq3fnyzieq956eqyj3gcp7a5xwiisatqbvqfr7evimmzmfc2xajj583a66fgxz8amn7qnummbiq4gidvv75vj4vn347isprwjnrpd39zwj8t2=.m3u8
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDUAOIBC/1000-epic-drama-hd.png" tvg-chno="" group-title="sweet.tv",[Filmové] Epic Drama HD
+https://bratislava.fastad.pro/stream/sq2gv7hhjh48uq9uvxvussbhrmv3ha7553v6ww3wne78zarsr78cfcg3ycc3s2uwiymd8mmwgzsbiuvmnhz55arqg6ndudrtiachep9bar5kji8fbgarucshbg6g4h8n58tufzykugymgs4kxrksf6tdsgdfaywz2a59zqqti2uea22279sqbu5t6c5q7ybnzhza====.m3u8
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC6AOIBC/956-film-europe-hd.png" tvg-chno="" group-title="sweet.tv",[Filmové] Film Europe HD
+https://bratislava.fastad.pro/stream/w2xt6q3d2za55iqd7unc2kq3emat75iey3htgdgzmnktxpsc2hj773ycmjbew3ryexvxvcsh38vffkdrqgcjkic2nvwkuu2j2vzfh6f8ruz76strijm9s6jb57ke94xrr87eppugutirs9fwkkru7zr2asthcurz8kz826qdbqw9x7v3wwzvpaws3yba7xb8tvqs====.m3u8
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC6QOIBC/957-film-europe-hd.png" tvg-chno="" group-title="sweet.tv",[Filmové] Film Europe+ HD
+https://bratislava.fastad.pro/stream/cb55yk5pi87pmdj2h3pu8q3espy7zr3unzds7xd5897pgt3j5e86hmpj3ijhy6ni4imxijd8pphms8fe7x4gbe2r8esr5vm5bcki7ddfsy48hs22awyhd7zhj4b9xqrrq2vrnqw49qsgteu284xerq8wkzrh3dhxakukcmez63niec375sz648cw.m3u8
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCZQMIBC/819-cs-film-hd.png" tvg-chno="" group-title="sweet.tv",[Filmové] CS Film HD
+https://bratislava.fastad.pro/stream/9gjhvghwwrp53uaqz9pxqn4bi4mr743s4wdf6k8ct8wgh5cgkc7ekcajq9jdp2ea7f4jgvzjniqrnj9498mf8x6gayhgjfcdwcbmt9u2fv2p2vknryb9nnrx59pzspqayh2kiu79d8ff26vt8ankup54q9vecytrwiykvdeafv9dqwfwsfpzw===.m3u8
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDGQMIBC/845-cs-horror-hd.png" tvg-chno="" group-title="sweet.tv",[Filmové] CS Horror HD
+https://bratislava.fastad.pro/stream/4esntq646syicpfh4gupxuftqx3zw85zkxgy2tfk84rdc854zmwf436x98vkgbsp32ftthvqj4ceg3rhgnugpbjkgf4qu2wgritsrb7v5847tsnbufvxryguuahmv6k6udmtchb3eehpg7jequmsp7cim2j99pgujuiti3d7d6bhmvj45nrqv4i=.m3u8
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDHQMIBC/847-jednotka-hd.png" tvg-chno="" group-title="sweet.tv",[Národné] Jednotka HD
+https://bratislava.fastad.pro/stream/u4qf4k5hwr79ud6zbqg34xzfvn7a7m6chk25fner2iqt8tym4ii395gujavv8u2hbk57zm29fqaynu52ty4ef3i2bcwfkghysdcvisnedrjze5jg4uurxv6qw5g44fbdr6a6cz9z5xwjxbs28gp3evk6rbr563gd8fxbaaa3vjahzbv6ifywkmg2we======.m3u8
+#EXTINF:-1 media="playlist" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDIAMIBC/848-dvojka-hd.png" tvg-chno="" group-title="sweet.tv",[Národné] Dvojka HD
+http://bratislava.fastad.pro/stream/6cygpcs87g22e9v7g3k5xk9cvqt2rmar4e8gdmcbpwg74564ibv4eyg9frhiryxaw52whw7d7f7764uz8hj6wwq77r29uq738zn5bh833em7q6t33zgye5ifywyykhtibhyz6i9bx4it37cr25xwenkf2q4s66f9xzd5qnt39wp94srrwud86uwtts======.m3u8
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC5AOIBC/954-doma-hd.png"tvg-chno=""group-title="Czech/Slovakia",[SK] Doma FHD
 http://185.98.211.6:48080/stv1/video.m3u8?token=9ce6f5d84fbdd4b9c701bb7a56a1f9ab
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BC5QOIBC/955-dajto-hd.png"tvg-chno=""group-title="Czech/Slovakia",[SK] DajTO FHD
@@ -221,6 +235,7 @@ http://142.202.51.5:11500/cd28044bc76f2366988269e64b1cb507a/video.m3u8?token=8cd
 https://bratislava.fastad.pro/stream/4uqceuntay9bswxh9efdbg8traftzpz5fyiqqgza3paz52vh5suy23f596e6mxkqgqvk7jixbvkaf7ivpackndncp4tk5y8xjj6czmn8h3nviabqr4tjzzccnvqanu6mnhfmpqer3pczdxec2fbadwaunmaax2nxnkxn2shnjhsitvzg8dxbn6zn66xrtjgq5i======.m3u8
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDGQOIBC/973-film-hd.png"tvg-chno=""group-title="Sweet.TV",Film + HD
 https://bratislava.fastad.pro/stream/7zx4pqtuyabzsnb5t7rmmpbkz976iu6i58rt8uy7s9kc6pgfgygc3nufjkv2k3cbvcwjetsdrvcy8jz7242sirwzi86qcz5je54pbewy2gx6tmqpkkbwgw6hz4etcsqhvjfdu6q33h87m5cawh6ua45jj2ndypemq6s2vzgj8h7a3dhb36jma===.m3u8
+
 
 
 
