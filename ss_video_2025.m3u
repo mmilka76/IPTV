@@ -93,7 +93,7 @@ http://212.102.38.45/live/test_joj_sport_hd_hevc/playlist.m3u8
 http://212.102.38.45/live/joj_sport_2_avc/index.m3u8
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCZAMIBC/818-wau-hd.png"tvg-chno=""group-title="Czech/Slovakia",[SK] Wau FHD
 http://212.102.38.45/live/test_wau_25p/playlist.m3u8
-#EXTINF:-1 media="" tvg-id="" tvg-logo="https://logo.protv.cc/piconsnew/hbo1hd.png" tvg-chno="" group-title="",[Dеtské] Šmolkovia HD
+#EXTINF:-1 media="" tvg-id="" tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BDDRUIBC/3399-smurfs-hd.png" tvg-chno="" group-title="",[Dеtské] Šmolkovia HD
 https://stitch-eu.fastad.pro/stream.m3u8?o=aHR0cHM6Ly9ub2RlMi1zaXRlbC1uaXgtYnRzLnN3ZWV0LnR2L3N0cmVhbS9xOGZ4Z3p6ZTM2eGs4enQ3dGVmeXlzYWF1N2dxZDhpbjJiYmp2YXpyZjJqOTc2OGU3NnVzc25neWhja2N0NXhhZjlmcGc4a2ZwNGptbmZhYW50bmk1Z3dnZmU0ZGZxZTlhbm1yaGZwd3NuNHo2Yjk3dmY5cWZmN2hrY2U0NmhzOHN4aXQzemh0NzZ4YnBiYzczMnkyajd0dWE0eThzY3B3NDJ3cnJnN3N3aWZpZGV0Mg==&u=16985740068234892230&session=5215691997114733796&variant=2&c=3399&dt=2&p=15&e=0&aid=&sp=0
 #EXTINF:-1 media=""tvg-id=""tvg-logo="https://staticeu.sweet.tv/images/cache/channel_icons/BCXQMIBC/815-jojko-hd.png"tvg-chno=""group-title="Detské",Jojko
 http://212.102.38.45/live/test_jojko_25p/playlist.m3u8
@@ -221,6 +221,7 @@ http://142.202.51.5:11500/189fbvgherne65wq89z8uvsztzt24w8t/video.m3u8?token=8cd4
 http://142.202.51.5:11500/sadcdsoirewfcsaldkwjetze984656e5/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:22type="playlist" size="Medium" tvg-logo="https://raw.githubusercontent.com/mmilka76/Kan-ly-TV/refs/heads/main/Picons/Nova%20Sport%205%20HD.png" group-title="CZ| SPORT ᴴᴰ",Nova Sport 5 HD
 http://142.202.51.5:11500/NS5/video.m3u8?token=8cd42917778958ac401318dd4968d644
+
 
 
 
