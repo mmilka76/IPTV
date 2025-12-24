@@ -413,7 +413,7 @@ http://142.132.205.242:8080/CA/video.m3u8?token=8cd42917778958ac401318dd4968d644
 http://212.102.38.45/live/test_hbo_hd_hevc/playlist.m3u8
 #EXTINF:0 tvg-id="847.id.com" tvg-name="HBO HD" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/hbo2hd.png?raw=true" group-title="TV",HBO 2 HD
 http://212.102.38.45/live/test_hbo2_hd_hevc/playlist.m3u8
-#EXTINF:0 tvg-id="a4ba4cdb8d6a99e565fa5470f99a1949" tvg-name="HBO3 HD" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/hbo3hd.png?raw=true" group-title="TV",HBO 3 HD  group-title="Filmové;HD kanály",HBO3 HD
+#EXTINF:0 tvg-id="a4ba4cdb8d6a99e565fa5470f99a1949" tvg-name="HBO3 HD" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/hbo3hd.png?raw=true" group-title="Filmové;HD kanály",HBO3 HD
 http://212.102.38.45/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://github.com/MarhyCZ/picons/blob/master/640/cinemaxhd.png?raw=true" group-title="TV",Cinemax HD
 http://212.102.38.45/live/test_cinemax_hd_hevc/playlist.m3u8
