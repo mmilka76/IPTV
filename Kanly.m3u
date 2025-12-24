@@ -96,7 +96,7 @@ http://212.102.38.45/live/test_axn/playlist.m3u8
 #EXTINF:0 tvg-id="72edb20d435c8baafda462f427edb723" tvg-name="AMC SK" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDTAOIBC/998-amc-hd.png" group-title="TV",AMC SK
 http://212.102.38.45/live/test_amc_25p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDUAOIBC/1000-epic-drama-hd.png" group-title="TV",Epic Drama
-http://142.202.51.5:11500/674e4d8808aa33918f3c852f1b30d9e1/index.m3u8?token=8cd42917778958ac401318dd4968d644
+http://142.202.51.5:11500/674e4d8808aa33918f3c852f1b30d9e1/tracks-v1a1/mono.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:0 tvg-id="c27ae0d760a6c999ab212f93c764ae4e" tvg-name="CANAL+ Action" tvg-logo="https://www.skylink.sk/doc/um_kanal_img/canal-action-972.png" group-title="TV",CANAL+ Action
 http://142.132.205.242:8080/CA/video.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://github.com/MarhyCZ/picons/blob/master/1024/hbohd.png?raw=true" group-title="TV",HBO HD
