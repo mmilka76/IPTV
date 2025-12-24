@@ -212,9 +212,9 @@ http://88.150.230.35:8080/b28a29491b0cb361e006253b3e96eab2e4da3b7fbbce2345d7772b
 #EXTINF:0 tvg-id="1000.id.com" tvg-name="Epic Drama HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDUAOIBCNABA====/1000-epic-drama-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1000|{catchup-id}",Epic Drama HD
 http://142.202.51.5:11500/674e4d8808aa33918f3c852f1b30d9e1/index.m3u8?token=8cd42917778958ac401318dd4968d644
 #EXTINF:0 tvg-id="956.id.com" tvg-name="Film Europe HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC6AOIBCNABA====/956-film-europe-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/956|{catchup-id}",Film Europe HD
-http://185.98.211.8:48080/film_europe/video.m3u8?token=5168fefe292e17912b642e47613bfc0f
+http://37.46.208.168:555/Film_Europe.m3u8?st=1elmbP9lYeOqIox4iAdRqg&e=1766694684
 #EXTINF:0 tvg-id="957.id.com" tvg-name="Film Europe+ HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC6QOIBCNABA====/957-film-europe-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/957|{catchup-id}",Film Europe+ HD
-plugin://plugin.video.sweettv/playvid/957|null
+https://node1-sitel-nix-bts.sweet.tv/stream/nywvjumpm44kgsa5smzn35phgbj7sreppwsztin9yn843sgs7dvubvqdf2vfd8fdjkrzzipzq7gc8imxvd44rxz6qeud8kcxwatvkaxsktczvehnz7jtua2rv7h2zsj5rgeana2bs3fn8ujwx5yw77ep6n3c8dbzrpck6vfbzcrgaanqi3vw8sgx.m3u8
 #EXTINF:0 tvg-id="973.id.com" tvg-name="Film + HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDGQOIBCNABA====/973-film-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/973|{catchup-id}",Film + HD
 http://212.102.38.45/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:0 tvg-id="819.id.com" tvg-name="CS Film HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCZQMIBCNABA====/819-cs-film-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/819|{catchup-id}",CS Film HD
@@ -223,14 +223,12 @@ http://212.102.38.45/live/test_cs_film_avc_25p/playlist.m3u8
 http://212.102.38.45/live/test_cs_film_avc_25p/playlist.m3u8
 #EXTINF:0 tvg-id="821.id.com" tvg-name="CS Mystery HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BC2QMIBCNABA====/821-cs-mystery-hd.png" group-title="Filmové;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/821|{catchup-id}",CS Mystery HD
 http://88.150.230.35:8080/596dcb6d47fADRzbhc/video.m3u8?token=8cd42917778958ac401318dd4968d644
-#EXTINF:0 tvg-id="1307.id.com" tvg-name="MTV" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCNQUIBCNABA====/1307-mtv.png" group-title="Hudobné" ,MTV
-plugin://plugin.video.sweettv/playvid/1307|null
 #EXTINF:0 tvg-id="2302.id.com" tvg-name="Živá hudba z Londýna HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BD7BCIBCNABA====/2302-london-live-music-hd.png" group-title="Hudobné;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2302|{catchup-id}",Živá hudba z Londýna HD
 plugin://plugin.video.sweettv/playvid/2302|null
 #EXTINF:0 tvg-id="1301.id.com" tvg-name="Club MTV" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCKQUIBCNABA====/1301-club-mtv.png" group-title="Hudobné" ,Club MTV
 http://212.102.38.45/live/test_mtv_dance_1200_atk/playlist.m3u8
 #EXTINF:0 tvg-id="1302.id.com" tvg-name="MTV Hits" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCLAUIBCNABA====/1302-mtv-hits.png" group-title="Hudobné" ,MTV Hits
-plugin://plugin.video.sweettv/playvid/1302|null
+http://212.102.38.45/live/test_mtv_hits_1200_atk/playlist.m3u8
 #EXTINF:0 tvg-id="2307.id.com" tvg-name="Živé popové koncerty v HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCBREIBCNABA====/2307-livepop-concerts-hd.png" group-title="Hudobné;TV zadarmo;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2307|{catchup-id}",Živé popové koncerty v HD
 plugin://plugin.video.sweettv/playvid/2307|null
 #EXTINF:0 tvg-id="1303.id.com" tvg-name="MTV Live HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCLQUIBCNABA====/1303-mtv-live-hd.png" group-title="Hudobné;HD kanály" ,MTV Live HD
@@ -238,7 +236,7 @@ plugin://plugin.video.sweettv/playvid/1303|null
 #EXTINF:0 tvg-id="1304.id.com" tvg-name="MTV80s" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCMAUIBCNABA====/1304-mtv80s.png" group-title="Hudobné" ,MTV80s
 http://212.102.38.45/live/test_vh_1_classic_1200_atk/playlist.m3u8
 #EXTINF:0 tvg-id="1305.id.com" tvg-name="MTV90s" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCMQUIBCNABA====/1305-mtv90s.png" group-title="Hudobné" ,MTV90s
-plugin://plugin.video.sweettv/playvid/1305|null
+http://212.102.38.45/live/test_mtv_rocks_1200_atk/playlist.m3u8
 #EXTINF:0 tvg-id="1306.id.com" tvg-name="MTV 00s" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCNAUIBCNABA====/1306-mtv-00s.png" group-title="Hudobné" ,MTV 00s
 plugin://plugin.video.sweettv/playvid/1306|null
 #EXTINF:0 tvg-id="840.id.com" tvg-name="Ocko HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDEAMIBCNABA====/840-ocko-hd.png" group-title="Hudobné;HD kanály" ,Ocko HD
@@ -258,9 +256,9 @@ plugin://plugin.video.sweettv/playvid/1902|null
 #EXTINF:0 tvg-id="1903.id.com" tvg-name="IConcerts HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDXQ4IBCNABA====/1903-iconcerts-hd.png" group-title="Hudobné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1903|{catchup-id}",IConcerts HD
 plugin://plugin.video.sweettv/playvid/1903|null
 #EXTINF:0 tvg-id="1904.id.com" tvg-name="Mezzo HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDYA4IBCNABA====/1904-mezzo-hd.png" group-title="Hudobné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/1904|{catchup-id}",Mezzo HD
-plugin://plugin.video.sweettv/playvid/1904|null
+http://37.46.208.168:555/mezzo.m3u8?st=5OLYR5aDpTQLMbhvY4HM_w&e=1766694611
 #EXTINF:0 tvg-id="2141.id.com" tvg-name="TV Folklorika HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDORAIBCNABA====/2141-tv-folklorika-hd.png" group-title="Hudobné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/2141|{catchup-id}",TV Folklorika HD
-plugin://plugin.video.sweettv/playvid/2141|null
+http://212.102.38.45/live/test_folklorika_atktv/playlist.m3u8
 #EXTINF:0 tvg-id="875.id.com" tvg-name="Senzi HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDVQMIBCNABA====/875-senzi-hd.png" group-title="Hudobné;HD kanály" catchup="vod" catchup-source="plugin://plugin.video.sweettv/playvid/875|{catchup-id}",Senzi HD
 plugin://plugin.video.sweettv/playvid/875|null
 #EXTINF:0 tvg-id="1907.id.com" tvg-name="Deluxe Music" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDZQ4IBCNABA====/1907-deluxe-music.png" group-title="Hudobné" ,Deluxe Music
@@ -937,12 +935,3 @@ http://wolftv.me:80/play/live.php?mac=00:1A:79:C4:F3:42&stream=1474936&extension
 http://wolftv.me:80/play/live.php?mac=00:1A:79:C4:F3:42&stream=1474935&extension=ts&play_token=TBDF2B0F2H
 #EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13794.png?ver=89391" group-title="US| HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: HBO MAX ORIGINAL 17 ᴿᴬᵂ
 http://wolftv.me:80/play/live.php?mac=00:1A:79:C4:F3:42&stream=1474934&extension=ts&play_token=vXRvyEry1u
-#EXTINF:-1  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCLAUIBC/1302-mtv-hits.png" group-title="TV",MTV Hits
-http://212.102.38.45/live/test_mtv_hits_1200_atk/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCKQUIBC/1301-club-mtv.png" group-title="TV",Club MTV
-
-#EXTINF:-1  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCMQUIBC/1305-mtv90s.png" group-title="TV",MTV 90s
-http://212.102.38.45/live/test_mtv_rocks_1200_atk/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BDORAIBC/2141-tv-folklorika-hd.png" group-title="TV",Folklorika HD
-http://212.102.38.45/live/test_folklorika_atktv/playlist.m3u8
-
