@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:0 tvg-id="7a55634018be710a62bbf1750443a199" tvg-name="Jednotka HD" tvg-logo="https://picons.cmshulk.com/picons/jednotka.png" group-title="" channel-id="1" catchup="default" catchup-source="default",Jednotka HD
+http://212.102.38.45/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:0 tvg-id="584c86a108172efc9c27af06eb3d4652" tvg-name="Dvojka HD" tvg-logo="https://picons.cmshulk.com/picons/dvojka.png" group-title="" channel-id="2" catchup="default" catchup-source="default",Dvojka HD
+http://212.102.38.45/live/test_dvojka_25p/playlist.m3u8
+#EXTINF:0 tvg-id="336e46bf4276e77a716e494c6285d5db" tvg-name="Markiza HD" tvg-logo="https://picons.cmshulk.com/picons/markizahd.png" group-title="" channel-id="3" catchup="default" catchup-source="default",Markiza HD
+http://212.102.38.45/live/test_markiza_25p/playlist.m3u8
+#EXTINF:0 tvg-id="84a2364ade7443e6d6afe03f9aa2361a" tvg-name="TV JOJ HD" tvg-logo="https://picons.cmshulk.com/picons/tvjojhd.png" group-title="" channel-id="4" catchup="default" catchup-source="default",TV JOJ HD
+http://212.102.38.45/live/test_joj_25p/playlist.m3u8
+#EXTINF:0 tvg-id="c27ae0d760a6c999ab212f93c764ae4e" tvg-name="CANAL+ Action" tvg-logo="https://picons.cmshulk.com/picons/canalplusactionhd.png" group-title="" channel-id="5" catchup="default" catchup-source="default",CANAL+ Action
+http://142.132.205.242:8080/CA/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-id="ba551cee37d621f3a459d798ae881e5e" tvg-name="CANAL+ Sport (SK)" tvg-logo="https://picons.cmshulk.com/picons/canalplussport.png" group-title="" channel-id="6" catchup="default" catchup-source="default",CANAL+ Sport (SK)
+http://142.132.205.242:8080/CNLS1/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0  tvg-id="f11d75c207c920105493497a38a497ab" tvg-name="CANAL+ Sport 2 (SK)" tvg-logo="https://picons.cmshulk.com/picons/canalplussport2hd.png" group-title="" channel-id="7" catchup="default" catchup-source="default",CANAL+ Sport 2 (SK)
+http://142.132.205.242:8080/CNLS2/video.m3u8?token=8cd42917778958ac401318dd4968d644
+#EXTINF:0 tvg-id="cbd5c7f941b30aa5ebe03004c9570e71" tvg-name="Filmbox HD" tvg-logo="https://picons.cmshulk.com/picons/filmboxhd.png" group-title="" channel-id="8" catchup="default" catchup-source="default",Filmbox HD
+http://212.102.38.45/live/test_filmbox/playlist.m3u8
+#EXTINF:0 tvg-id="ad99a65b8a018d45a26debf94c20bc1f" tvg-name="Filmbox Stars" tvg-logo="https://picons.cmshulk.com/picons/filmboxstars.png" group-title="" channel-id="9" catchup="default" catchup-source="default",Filmbox Stars
+http://212.102.38.45/live/test_filmbox_plus_atk_1200/playlist.m3u8
+#EXTINF:0 tvg-id="6a5461ba82cabcb95db5b344e6440e15" tvg-name="RTVS 24 HD" tvg-logo="https://picons.cmshulk.com/picons/rtvs24hd.png" group-title="" channel-id="10" catchup="default" catchup-source="default",RTVS 24 HD
+http://212.102.38.45/live/test_trojka_25p/playlist.m3u8
+#EXTINF:0  tvg-id="09fc492d319c8813389e11c167b3a053" tvg-name="RTVS SPORT HD" tvg-logo="https://picons.cmshulk.com/picons/rtvssporthd.png" group-title="" channel-id="12" catchup="default" catchup-source="default",RTVS SPORT HD
+http://212.102.38.45/live/test_rtvs_sport_hevc/playlist.m3u8
